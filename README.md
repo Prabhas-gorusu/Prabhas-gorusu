@@ -18,10 +18,6 @@
       </nav>
     </div>
   </header>
-
-  <!-- Hero -->
-  <section class="max-w-6xl mx-auto py-10 px-4 flex flex-col md:flex-row items-center">
-    <img src=["https://i.ibb.co/bgFfFKqG/Profile-pic-removebg-preview.png"](https://avatars.githubusercontent.com/u/175792058?v=4) alt="Prabhas Gorusu" class="w-48 h-48 rounded-full shadow-lg mb-6 md:mb-0 md:mr-10">
     <div>
       <h2 class="text-3xl font-bold mb-2">Aspiring Software Engineer</h2>
       <p class="text-lg leading-relaxed">Currently pursuing B.Tech in Computer Science Engineering with a specialization in AI & ML. Passionate about solving real-world problems using technology.</p>
