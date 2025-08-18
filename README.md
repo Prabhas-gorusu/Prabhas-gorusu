@@ -205,5 +205,5 @@ projects:
 ---
 
 <div align="center">
-  <i>⭐️ From [Your Name](https://github.com/yourusername) with ❤️</i>
+  <i>⭐️ From Prabhas Gorusu (https://github.com/Prabhas-gorusu) with ❤️</i>
 </div>
